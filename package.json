@@ -4,6 +4,7 @@
   "description": "liri homework for week 10",
   "main": "keys.js",
   "dependencies": {
+    "require": "^2.4.20",
     "spotify": "^0.3.0",
     "twitter": "^1.4.0"
   },
